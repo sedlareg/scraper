@@ -1,20 +1,19 @@
 # Simple Scraper
 
 ## Dependencies
-- @babel/cli [[homepage]](10) [[github]](11)
-- @babel/core [[homepage]](10) [[github]](12)
-- @babel/node [[homepage]](10) [[github]](13)
-- @babel/preset-env [[homepage]](10) [[github]](14)
+- @babel/cli [[homepage]][10] [[github]][11]
+- @babel/core [[homepage]][10] [[github]][12]
+- @babel/node [[homepage]][10] [[github]][13]
+- @babel/preset-env [[homepage]][10] [[github]][14]
 
-- cheerio [[homepage]](50) [[github]](51)
-- csv-writer [[homepage]](60) [[github]](61)
-- got [[homepage]](70) [[github]](71)
-- jsonfile [[homepage]](80) [[github]](81)
-- jsonframe-cheerio [[homepage]](90) [[github]](91)
+- cheerio [[homepage]][50] [[github]][51]
+- csv-writer [[homepage]][60] [[github]][61]
+- got [[homepage]][70] [[github]][71]
+- jsonfile [[homepage]][80] [[github]][81]
+- jsonframe-cheerio [[homepage]][90] [[github]][91]
 
-- node [[homepage]](110)
-- npm [[homepage]](120)
-
+- node [[homepage]][110]
+- npm [[homepage]][120]
 
 [10]: https://babeljs.io/
 [11]: https://github.com/babel/babel/tree/master/packages/babel-cli
