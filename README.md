@@ -1,5 +1,40 @@
 # Simple Scraper
 
+## Dependencies
+- @babel/cli [[homepage]](10) [[github]](11)
+- @babel/core [[homepage]](10) [[github]](12)
+- @babel/node [[homepage]](10) [[github]](13)
+- @babel/preset-env [[homepage]](10) [[github]](14)
+
+- cheerio [[homepage]](50) [[github]](51)
+- csv-writer [[homepage]](60) [[github]](61)
+- got [[homepage]](70) [[github]](71)
+- jsonfile [[homepage]](80) [[github]](81)
+- jsonframe-cheerio [[homepage]](90) [[github]](91)
+
+- node [[homepage]](110)
+- npm [[homepage]](120)
+
+
+[10]: (https://babeljs.io/)
+[11]: (https://github.com/babel/babel/tree/master/packages/babel-cli)
+[12]: (https://github.com/babel/babel/tree/master/packages/babel-core)
+[13]: (https://github.com/babel/babel/tree/master/packages/babel-node)
+[14]: (https://github.com/babel/babel/tree/master/packages/babel-preset-env)
+[50]: (https://github.com/cheeriojs/cheerio#readme)
+[51]: (https://github.com/cheeriojs/cheerio)
+[60]: (https://github.com/ryu1kn/csv-writer#readme)
+[61]: (https://github.com/ryu1kn/csv-writer)
+[70]: (https://github.com/sindresorhus/got#readme)
+[71]: (https://github.com/sindresorhus/got)
+[80]: (https://github.com/jprichardson/node-jsonfile#readme)
+[81]: (https://github.com/jprichardson/node-jsonfile)
+[90]: (https://github.com/gahabeen/jsonframe-cheerio#readme)
+[91]: (https://github.com/gahabeen/jsonframe-cheerio)
+
+[110]: (https://nodejs.org/en/)
+[120]: (https://www.npmjs.com/)
+
 ## Install NodeModules
 
 **Dependencies**
@@ -9,7 +44,7 @@ npm i
 
 **Install babel-cli globally for babel-node**
 ```$xslt
-npm i -g --save babel-cli
+npm i -g --save @babel/cli
 ```
 
 ## Write Scraper-File

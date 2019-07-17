@@ -1,4 +1,4 @@
-import {doScrapeSequence} from "../utils/scraper";
+import {doScrapeSequence, getEndTime} from "../utils/scraper";
 
 const url = 'https://www.xing.com/companies/industries/90000-internet-und-informationstechnologie?page=';
 const frame = {
@@ -24,7 +24,7 @@ const csvParams = {
 };
 
 let urls = [];
-for (let i = 1; i < 42; i++) {
+for (let i = 1; i < 100; i++) {
     urls.push(url + i);
 }
 
@@ -36,6 +36,4 @@ doScrapeSequence(
         jsonParams: jsonParams,
         csvParams: csvParams
     }
-)
-    .then(console.log('Finished'))
-    .catch(console.error);
+);

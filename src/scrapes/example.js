@@ -27,7 +27,6 @@ doScrape(
     {
         jsonPath: pathToJsonFile,
         csvParams: csvParams
-    }
-)
-    .then(console.log('Finished'))
-    .catch(console.error);
+    },
+    true
+);
