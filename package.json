@@ -1,0 +1,23 @@
+{
+  "name": "scraper",
+  "version": "1.0.0",
+  "description": "Scraping data with javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "babel-node src/scrapes/example.js",
+    "xingCompanies": "babel-node src/scrapes/xing_companies.js"
+  },
+  "author": "GPF",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "csv-writer": "^1.5.0",
+    "got": "^9.6.0",
+    "jsonfile": "^5.0.0",
+    "jsonframe-cheerio": "^3.0.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.7.0",
+    "babel-register": "^6.26.0"
+  }
+}
