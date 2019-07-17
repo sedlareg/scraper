@@ -16,24 +16,24 @@
 - npm [[homepage]](120)
 
 
-[10]: (https://babeljs.io/)
-[11]: (https://github.com/babel/babel/tree/master/packages/babel-cli)
-[12]: (https://github.com/babel/babel/tree/master/packages/babel-core)
-[13]: (https://github.com/babel/babel/tree/master/packages/babel-node)
-[14]: (https://github.com/babel/babel/tree/master/packages/babel-preset-env)
-[50]: (https://github.com/cheeriojs/cheerio#readme)
-[51]: (https://github.com/cheeriojs/cheerio)
-[60]: (https://github.com/ryu1kn/csv-writer#readme)
-[61]: (https://github.com/ryu1kn/csv-writer)
-[70]: (https://github.com/sindresorhus/got#readme)
-[71]: (https://github.com/sindresorhus/got)
-[80]: (https://github.com/jprichardson/node-jsonfile#readme)
-[81]: (https://github.com/jprichardson/node-jsonfile)
-[90]: (https://github.com/gahabeen/jsonframe-cheerio#readme)
-[91]: (https://github.com/gahabeen/jsonframe-cheerio)
+[10]: https://babeljs.io/
+[11]: https://github.com/babel/babel/tree/master/packages/babel-cli
+[12]: https://github.com/babel/babel/tree/master/packages/babel-core
+[13]: https://github.com/babel/babel/tree/master/packages/babel-node
+[14]: https://github.com/babel/babel/tree/master/packages/babel-preset-env
+[50]: https://github.com/cheeriojs/cheerio#readme
+[51]: https://github.com/cheeriojs/cheerio
+[60]: https://github.com/ryu1kn/csv-writer#readme
+[61]: https://github.com/ryu1kn/csv-writer
+[70]: https://github.com/sindresorhus/got#readme
+[71]: https://github.com/sindresorhus/got
+[80]: https://github.com/jprichardson/node-jsonfile#readme
+[81]: https://github.com/jprichardson/node-jsonfile
+[90]: https://github.com/gahabeen/jsonframe-cheerio#readme
+[91]: https://github.com/gahabeen/jsonframe-cheerio
 
-[110]: (https://nodejs.org/en/)
-[120]: (https://www.npmjs.com/)
+[110]: https://nodejs.org/en/
+[120]: https://www.npmjs.com/
 
 ## Install NodeModules
 
