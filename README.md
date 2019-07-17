@@ -99,9 +99,7 @@ doScrape(
         jsonParams: jsonParams,
         csvParams: csvParams
     }
-)
-    .then(console.log('Finished'))
-    .catch(console.error);
+);
 ```
 
 #### Sequential Scrape
@@ -138,7 +136,5 @@ doScrapeSequence(
         jsonParams: jsonParams,
         csvParams: csvParams
     }
-)
-    .then(console.log('Finished'))
-    .catch(console.error);
+);
 ```
